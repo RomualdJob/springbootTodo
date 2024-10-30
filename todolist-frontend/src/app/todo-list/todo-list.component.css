@@ -1,0 +1,19 @@
+
+  
+  textarea {
+    height: 0px; /* Hauteur fixe pour le textarea */
+    /*resize: none; /* Empêche le redimensionnement */
+  }
+  .custom-field {
+    width: 350px; /* Ajuste la largeur selon tes besoins */
+  }
+  
+  .table {
+    max-width: 900px; /* Limite la largeur de la table */
+    margin: 0 auto; /* Centre la table */
+  }
+  
+  button {
+    margin-top: 5px; /* Ajoute un peu d'espace au-dessus du bouton */
+  }
+  
